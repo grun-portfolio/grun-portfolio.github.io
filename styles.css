@@ -39,6 +39,11 @@ h3 {
     font-weight: bold;
 }
 
+article * {
+    margin: 0;
+    padding: 0;
+}
+
 /* Profile container */
 .profile-container {
     margin: auto;
